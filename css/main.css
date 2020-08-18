@@ -1,0 +1,31 @@
+*{
+    font-weight: bold !important;
+}
+
+.height{
+    min-height: 100vh !important;
+}
+
+.title-underline{
+    width: 200px;
+    height: 7px;
+    margin: 0 auto;
+}
+
+.height-80{
+    min-height: 80vh;
+}
+
+.about-pic{
+    background: url(/img/projects/pexels-startup-stock-photos-7100.jpg) center/cover no-repeat fixed;
+    /* background-size: cover;
+    background-position: center;
+    background-attachment: fixed; */
+}
+
+#filler, #progress{
+    background: 
+    linear-gradient(#00000063, #000000ab),
+    url(/img/pexels-maxime-francis-2246476.jpg) center/cover no-repeat fixed;
+
+}
